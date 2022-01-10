@@ -7,6 +7,6 @@ Employee File with the following record structure
 
 Operations:
 
-Searching in Employee File using following fields: Employee Number, Employee Name
-Input of employee id, name, allowances and deductions.
-Net pay of employee is claculated
+1) Searching in Employee File using following fields: Employee Number, Employee Name
+2) Input of employee id, name, allowances and deductions.
+3) Net pay of employee is claculated
